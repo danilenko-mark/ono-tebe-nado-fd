@@ -1,1 +1,99 @@
-/* место для вашего кода */
+.header {
+
+}
+
+.header__menu {
+
+}
+
+.header__logo {
+
+}
+
+.address {
+
+}
+
+.address-list {
+
+}
+
+.main {
+
+}
+
+.cover {
+    background-image: url(../images/cover.jpg);
+}
+
+.cover__title {
+
+}
+
+.cover__accent-span {
+
+}
+
+.cover__description {
+
+}
+
+.lots {
+
+}
+
+.lots__title {
+
+}
+
+.lots__list {
+
+}
+
+.lots__list-card {
+
+}
+
+.lots__list-card-one {
+    background-image: url(../images/card-lot-01.jpg);
+}
+
+.lots__list-card-two {
+    background-image: url(../images/card-lot-02.jpg);
+}
+
+.lots__list-card-three {
+    background-image: url(../images/card-lot-03.jpg);
+}
+
+.about {
+
+}
+
+.about__logo {
+
+}
+
+.about__content {
+
+}
+
+.about__content-title {
+
+}
+
+.footer {
+
+}
+
+.footer__contacts {
+
+}
+
+.footer__menu {
+
+}
+
+.footer__socials {
+
+}
